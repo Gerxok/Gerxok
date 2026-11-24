@@ -1,16 +1,42 @@
-## Hi there 👋
+# Gerxok
 
-<!--
-**Gerxok/Gerxok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer | Cybersecurity | Linux**
 
-Here are some ideas to get you started:
+Interested in software development, cybersecurity and low-level technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Exploring system security, security research and software development.
+
+### Security Interests
+
+- Penetration Testing
+- Open Source Intelligence (OSINT)
+- Reverse Engineering
+- Linux & System Security
+
+### Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,rust,js,html,css,bash&theme=dark" />
+</p>
+
+**Tools & Environments**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,debian,docker,git,vscode,vim&theme=dark" />
+</p>
+
+### GitHub Statistics
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerxok&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+### Projects
+
+Check out my pinned repositories below.
+
+---
+
+<sub>Gerxok · GitHub</sub>
